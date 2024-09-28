@@ -14,7 +14,7 @@ public class Review01 {
         
      // 1500円の商品の税込価格は1650円（消費税は150円）です。
         System.out.println
-        (price + "円の商品の税込み価格は" + (price + result) + "円(消費税は" + result + "円)です。");
+        (price + "円の商品の税込価格は" + (price + result) + "円(消費税は" + result + "円)です。");
         }
     
     public static int tax(int price, double tax) {
